@@ -11,4 +11,4 @@ commands to setup react native typescript with redux and redux observable
     * npm install rxjs --save //reactive management 
 
 3. Building on android
-   <react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res>
+   'react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res'
